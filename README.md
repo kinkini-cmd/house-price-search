@@ -120,6 +120,8 @@ If no house matches the budget:
 
 ```text
 No houses found.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/711cd24d-fdc7-46cd-9152-6f4294fc226f" />
+
 ```
 
 ## 🧠 DSA Concepts Practiced
